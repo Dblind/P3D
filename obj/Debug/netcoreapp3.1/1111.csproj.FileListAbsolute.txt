@@ -1,0 +1,13 @@
+/home/ivan/dotnet_project/pseudo3d/1111/bin/Debug/netcoreapp3.1/1111
+/home/ivan/dotnet_project/pseudo3d/1111/bin/Debug/netcoreapp3.1/1111.deps.json
+/home/ivan/dotnet_project/pseudo3d/1111/bin/Debug/netcoreapp3.1/1111.runtimeconfig.json
+/home/ivan/dotnet_project/pseudo3d/1111/bin/Debug/netcoreapp3.1/1111.runtimeconfig.dev.json
+/home/ivan/dotnet_project/pseudo3d/1111/bin/Debug/netcoreapp3.1/1111.dll
+/home/ivan/dotnet_project/pseudo3d/1111/bin/Debug/netcoreapp3.1/1111.pdb
+/home/ivan/dotnet_project/pseudo3d/1111/obj/Debug/netcoreapp3.1/1111.csprojAssemblyReference.cache
+/home/ivan/dotnet_project/pseudo3d/1111/obj/Debug/netcoreapp3.1/1111.AssemblyInfoInputs.cache
+/home/ivan/dotnet_project/pseudo3d/1111/obj/Debug/netcoreapp3.1/1111.AssemblyInfo.cs
+/home/ivan/dotnet_project/pseudo3d/1111/obj/Debug/netcoreapp3.1/1111.csproj.CoreCompileInputs.cache
+/home/ivan/dotnet_project/pseudo3d/1111/obj/Debug/netcoreapp3.1/1111.dll
+/home/ivan/dotnet_project/pseudo3d/1111/obj/Debug/netcoreapp3.1/1111.pdb
+/home/ivan/dotnet_project/pseudo3d/1111/obj/Debug/netcoreapp3.1/1111.genruntimeconfig.cache
