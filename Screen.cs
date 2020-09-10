@@ -24,12 +24,12 @@ namespace P3D
         public static void Display(Screen s)
         {
             
-            Console.CursorTop = 0;
+            Console.CursorTop = 0; Console.CursorLeft = 0;
             string[] rowScreen = new string[s.screen.Length];
             for (int i = 0; i < rowScreen.Length; i++)
             {
                 //d[i] = string. s.screen[i]
-                ; s.sb.Clear(); s.sb.Append(s.screen[i]); rowScreen[i] = s.sb.ToString();
+                s.sb.Clear(); s.sb.Append(s.screen[i]); rowScreen[i] = s.sb.ToString();
                 System.Console.WriteLine(rowScreen[i]);
             }
         }

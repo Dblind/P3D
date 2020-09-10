@@ -5,8 +5,8 @@ namespace P3D
     class Setting
     {
         public bool flagGame = true;
-        public int ScreenWidth = 260;
-        public int ScreenHeight = 65;
+        public int ScreenWidth = 160;
+        public int ScreenHeight = 40;
         public float PlayerX = 8.0f;
         public float PlayerY = 2.0f;
         public float PlayerA = .0f;
